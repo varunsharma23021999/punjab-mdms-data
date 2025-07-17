@@ -14,6 +14,12 @@
       "unitCost" : 30,
       "isActive": true
     },
+    {
+     "name": "Commercial",
+      "code": "NONRESIDENTIAL.OTHERS",
+      "unitCost" : 30,
+      "isActive": true
+    },
 {
       "name": "Industrial",
       "code": "NONRESIDENTIAL.INDUSTRIAL",
