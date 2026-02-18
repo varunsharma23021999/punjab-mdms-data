@@ -203,8 +203,8 @@
     {
       "code": "pb.cheema",
       "name": "Cheema",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.dasuya",
@@ -563,8 +563,8 @@
     {
       "code": "pb.sirhind",
       "name": "Sirhind",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.talwandibhai",
@@ -589,6 +589,26 @@
       "name": "Zirakpur",
       "iswater": false,
       "issewerage": false
-    }
+    },
+    {
+  "code": "pb.kotfatta",
+  "name": "Kot Fatta",
+  "iswater": true,
+  "issewerage": true
+},
+{
+  "code": "pb.handiaya",
+  "name": "Handiaya",
+  "iswater": true,
+  "issewerage": true
+},
+{
+  "code": "pb.mamdot",
+  "name": "Mamdot",
+  "iswater": true,
+  "issewerage": true
+}
+
+
   ]
 }
